@@ -5,7 +5,6 @@
 - 👯 Faço plugins/bot de discord por dinheiro
 - 💬 Se precisar do meu contato, meu pv no discord é livre, discord: Slozin#939
 - ⚡ Sou dono da empresa de hospedagem ryper host. Site: https://www.ryperhost.com
-- - 🤔 Pronomes: Ele/dele
 
 <div align="center">
   <a href="https://github.com/slozin">
