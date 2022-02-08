@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, eu sou o Slozin 👋
 
-<!--
-**Slozin/Slozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou programador iniciante
+- 🌱 estou aprendendo java, python e html
+- 👯 Faço plugins/bot de discord por dinheiro
+- 💬 Se precisar do meu contato, meu pv no discord é livre, discord: Slozin#939
+- ⚡ Sou dono da empresa de hospedagem ryper host. Site: https://www.ryperhost.com
+- - 🤔 Pronomes: Ele/dele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/slozin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slozin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slozin&layout=compact&langs_count=7&theme=dark"/>
+</div>
