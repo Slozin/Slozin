@@ -4,7 +4,6 @@
 - 🌱 estou aprendendo java, python e html
 - 👯 Faço plugins/bot de discord por dinheiro
 - 💬 Se precisar do meu contato, meu pv no discord é livre, discord: Slozin#0001
-- ⚡ Sou dono da empresa de hospedagem ryper host. Site: https://www.ryperhost.com
 
 <div align="center">
   <a href="https://github.com/slozin">
